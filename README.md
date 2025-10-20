@@ -15,7 +15,7 @@
 
 <!-- 贡献蛇动画（酷炫必备） -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/hanxuebing/hanxuebing/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
 
 ---
