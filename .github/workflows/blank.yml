@@ -26,7 +26,7 @@ jobs:
         run: sudo apt-get install -y libcairo2-dev libjpeg-dev libpango1.0-dev libgif-dev build-essential && npm install canvas      
       # 生成贪吃蛇动画
       - name: Generate snake animation
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk@v3
         with:
           github_user_name: hanxuebing
           outputs: |
