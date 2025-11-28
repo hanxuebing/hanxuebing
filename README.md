@@ -17,6 +17,3 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/hanxuebing/hanxuebing/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
-
----
-
